@@ -6,21 +6,12 @@ Bitte Anzahl Unterkapitel entsprechend der Gruppengrösse anpassen. Der eigene S
 
 |       | Bitte ausfüllen |
 |-------|-----------------|
-| Review durch (ZHAW-Kürzel) |  ghebrabe, winterpas, bertaleo, haennkas, selimalb          |
-| Review von (ZHAW-Kürzel) |    weyerma2        |
-| Sprache, Kommunikation, roter Faden | TODO |
-| Nachvollziehbarkeit Inhalt, Demonstration | TODO |
-
-## Screencast 2
-
-|       | Bitte ausfüllen |
-|-------|-----------------|
 | Review durch (ZHAW-Kürzel) |    ghebrabe, winterpas, bertaleo, haennkas, weyerma2        |
 | Review von (ZHAW-Kürzel) |      selimalb      |
 | Sprache, Kommunikation, roter Faden | Deutlich gesprochen und klar die Schritte erklärt. Die Präsentation hatte eine klare Struktur. |
 | Nachvollziehbarkeit Inhalt, Demonstration | Die Schritte waren sehr Nachvollziehbar und der Codeaufbau klar verständlich. Das Frontend war sehr sauber implementiert. |
 
-## Screencast 3
+## Screencast 2
 
 |       | Bitte ausfüllen |
 |-------|-----------------|
@@ -29,7 +20,7 @@ Bitte Anzahl Unterkapitel entsprechend der Gruppengrösse anpassen. Der eigene S
 | Sprache, Kommunikation, roter Faden | Deutlich gesprochen und klar die Schritte erklärt. Die Präsentation hatte eine klare Struktur. |
 | Nachvollziehbarkeit Inhalt, Demonstration | Den Scrapper und die Deatures konnte man gut nachvollziehen und die Demonstration inkl. Workflow war sehr strukturiert. |
 
-## Screencast 4
+## Screencast 3
 
 |       | Bitte ausfüllen |
 |-------|-----------------|
@@ -38,7 +29,7 @@ Bitte Anzahl Unterkapitel entsprechend der Gruppengrösse anpassen. Der eigene S
 | Sprache, Kommunikation, roter Faden | Deutlich gesprochen und klar die Schritte erklärt. Die Präsentation hatte eine klare Struktur |
 | Nachvollziehbarkeit Inhalt, Demonstration | Die API für die Wettervorhersage wurde nicht detailiert erklärt. Die Azure Pipeline war nachvollziehbar und die Demonstration inkl. Modellerklärung wurde gut umgesetzt. |
 
-## Screencast 5
+## Screencast 4
 
 |       | Bitte ausfüllen |
 |-------|-----------------|
