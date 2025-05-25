@@ -29,25 +29,23 @@ Der User kann ein Bild hochladen oder einen Text schreiben.
 
 #### Ansicht im Web-UI:
 
-<img width="1360" alt="Screenshot 2025-03-17 at 12 16 38" src="" />
+<img width="1360" alt="Screenshot 2025-03-17 at 12 16 38" src="https://github.com/weyerma2/MDM-Lernjournal/blob/main/lernjournal1-python/images/html.jpeg" />
 
 #### Code der Applikation:
 
 <img width="703" alt="Screenshot 2025-03-18 at 10 16 50" src="" />
 
 ### Trigger Text Informationen
-Bei der Eingabe durch den User und mit dem Trigger des Buttons "Add Task" wird zudem eine Operation durchgeführt, welche den Text untersucht und folgende Informationen zur eingabe anzeigt:
--Originaleingabe
--Umkehrung des Textes
--Anzahl der Wörter
--Anzahl der Buchstaben (Char)
--Palindrome*
+Bei Texteingabe: text.upper() wird verwendet, um Eingabetext umzuwandeln.
 
-*https://de.wikipedia.org/wiki/Palindrom 
+Bei Bildeingabe: Pillow liest das Bild und konvertiert es mit .convert("L") zu einem Graustufenbild.
+
+Die Antwort (Text oder Bild) wird im selben Response direkt eingebettet zurückgegeben.
 
 #### Ansicht Web-UI:
 
-<img width="311" alt="Screenshot 2025-03-17 at 12 15 30" src="" />
+<img width="311" alt="Screenshot 2025-03-17 at 12 15 30" src="https://github.com/weyerma2/MDM-Lernjournal/blob/main/lernjournal1-python/images/pizza.jpeg" />
+<img width="311" alt="Screenshot 2025-03-17 at 12 15 30" src="https://github.com/weyerma2/MDM-Lernjournal/blob/main/lernjournal1-python/images/text.jpeg" />
 
 #### Code der Application:
 
