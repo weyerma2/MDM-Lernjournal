@@ -33,7 +33,7 @@ Der User kann ein Bild hochladen oder einen Text schreiben.
 
 #### Code der Applikation:
 
-<img width="703" alt="Screenshot 2025-03-18 at 10 16 50" src="" />
+<img width="703" alt="Screenshot 2025-03-18 at 10 16 50" src="https://github.com/weyerma2/MDM-Lernjournal/blob/main/lernjournal1-python/images/code_html.jpeg" />
 
 ### Trigger Text Informationen
 Bei Texteingabe: text.upper() wird verwendet, um Eingabetext umzuwandeln.
@@ -49,7 +49,7 @@ Die Antwort (Text oder Bild) wird im selben Response direkt eingebettet zurückg
 
 #### Code der Application:
 
-<img width="644" alt="Screenshot 2025-03-18 at 10 17 03" src="" />
+<img width="644" alt="Screenshot 2025-03-18 at 10 17 03" src="https://github.com/weyerma2/MDM-Lernjournal/blob/main/lernjournal1-python/images/code_py.jpeg" />
 
 
 ## Dependency Management
@@ -62,7 +62,7 @@ Entsprechend stehen im Projekt die Dependencies zur Verfügung.
 
 ### requirements.txt Inhalt:
 
-<img width="511" alt="Screenshot 2025-03-17 at 12 03 07" src="" />
+<img width="511" alt="Screenshot 2025-03-17 at 12 03 07" src="https://github.com/weyerma2/MDM-Lernjournal/blob/main/lernjournal1-python/images/req.jpeg" />
 
 
 ## Deployment
