@@ -4,30 +4,36 @@
 
 | | Bitte ausfüllen |
 | -------- | ------- |
-| Repository (URL)  | https://github.com/yanickfischer/SW1_TextManipulation.git
-| Kurze Beschreibung der App-Funktion | To-Do-Liste mit Text-Manipulation |
-| Verwendete Library aus PyPi (Name) | textblob |
-| Verwendete Library aus PyPi (URL) | https://pypi.org/project/textblob/|
+| Repository (URL)  | https://github.com/weyerma2/lernjournal1
+| Kurze Beschreibung der App-Funktion | Eine Web-App, die Texte in Grossbuchstaben umwandelt und hochgeladene Bilder in Graustufen konvertiert |
+| Verwendete Library aus PyPi (Name) | Flask, Pillow |
+| Verwendete Library aus PyPi (URL) | https://pypi.org/project/Flask/, https://pypi.org/project/Pillow/ |
 | ... | |
 | ... | |
 
 ## App, Funktionalität
-Die Applikation bietet dem User die Möglichkeit Aufgaben in einer To-Do-Liste zu erfassen und zeigt Informationen zur gemachten Texteingabe an.
+Texteingabe → Umwandlung in GROSSBUCHSTABEN
+
+Bildeingabe (PNG/JPG) → Konvertierung in Graustufen
+
+Ausgabe wird dynamisch im selben HTML-Template angezeigt
+
+Einfache Benutzeroberfläche mit HTML + Bootstrap
 
 #### Ansicht im Web-UI:
 !!!!!
 ERGàNZEN!!!!
 
-### Funktionen Aufgaben bearbeiten
-Der User kann eine neue Aufgabe hinzufügen oder diese auch wieder löschen.
+### Funktionen Transformation
+Der User kann ein Bild hochladen oder einen Text schreiben.
 
 #### Ansicht im Web-UI:
 
-<img width="1360" alt="Screenshot 2025-03-17 at 12 16 38" src="https://github.com/user-attachments/assets/9a8971b8-146b-4948-902d-eb6cad1d2080" />
+<img width="1360" alt="Screenshot 2025-03-17 at 12 16 38" src="" />
 
 #### Code der Applikation:
 
-<img width="703" alt="Screenshot 2025-03-18 at 10 16 50" src="https://github.com/user-attachments/assets/07fd8653-a57b-40c2-9a1a-740d83fa6027" />
+<img width="703" alt="Screenshot 2025-03-18 at 10 16 50" src="" />
 
 ### Trigger Text Informationen
 Bei der Eingabe durch den User und mit dem Trigger des Buttons "Add Task" wird zudem eine Operation durchgeführt, welche den Text untersucht und folgende Informationen zur eingabe anzeigt:
@@ -41,32 +47,29 @@ Bei der Eingabe durch den User und mit dem Trigger des Buttons "Add Task" wird z
 
 #### Ansicht Web-UI:
 
-<img width="311" alt="Screenshot 2025-03-17 at 12 15 30" src="https://github.com/user-attachments/assets/d2b731eb-e0ba-4b27-953f-cc209644e955" />
+<img width="311" alt="Screenshot 2025-03-17 at 12 15 30" src="" />
 
 #### Code der Application:
 
-<img width="644" alt="Screenshot 2025-03-18 at 10 17 03" src="https://github.com/user-attachments/assets/6070e012-2f89-45a1-a10e-24736576f592" />
+<img width="644" alt="Screenshot 2025-03-18 at 10 17 03" src="" />
 
 
 ## Dependency Management
 
 Nach der Entwicklung der Applikation wurden die Dependencies mit folgendem Prozess generiert:
 
-1. pip freeze > reqruirements.in
-2. pip-compile requirements.in
+1. pip freeze > requirements.txt
 
 Entsprechend stehen im Projekt die Dependencies zur Verfügung.
 
-### requirements.in Inhalt:
+### requirements.txt Inhalt:
 
-<img width="437" alt="Screenshot 2025-03-17 at 12 02 54" src="https://github.com/user-attachments/assets/6489849e-5ae1-4e17-95e3-34aca4c71661" />
-
-### requirements.txt Inhalt (Teil-Auszug):
-
-<img width="511" alt="Screenshot 2025-03-17 at 12 03 07" src="https://github.com/user-attachments/assets/76c5e18c-9776-4956-b922-2a76b5a091c3" />
+<img width="511" alt="Screenshot 2025-03-17 at 12 03 07" src="" />
 
 
 ## Deployment
 
-* [ ] TODO
+Azure
+
+<img width="511" alt="Screenshot 2025-03-17 at 12 03 07" src="" />
 
