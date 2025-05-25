@@ -8,8 +8,6 @@
 | Kurze Beschreibung der App-Funktion | Eine Web-App, die Texte in Grossbuchstaben umwandelt und hochgeladene Bilder in Graustufen konvertiert |
 | Verwendete Library aus PyPi (Name) | Flask, Pillow |
 | Verwendete Library aus PyPi (URL) | https://pypi.org/project/Flask/, https://pypi.org/project/Pillow/ |
-| ... | |
-| ... | |
 
 ## App, Funktionalität
 Texteingabe → Umwandlung in GROSSBUCHSTABEN
@@ -19,10 +17,6 @@ Bildeingabe (PNG/JPG) → Konvertierung in Graustufen
 Ausgabe wird dynamisch im selben HTML-Template angezeigt
 
 Einfache Benutzeroberfläche mit HTML + Bootstrap
-
-#### Ansicht im Web-UI:
-!!!!!
-ERGàNZEN!!!!
 
 ### Funktionen Transformation
 Der User kann ein Bild hochladen oder einen Text schreiben.
@@ -69,5 +63,5 @@ Entsprechend stehen im Projekt die Dependencies zur Verfügung.
 
 Azure
 
-<img width="511" alt="Screenshot 2025-03-17 at 12 03 07" src="" />
+<img width="511" alt="Screenshot 2025-03-17 at 12 03 07" src="https://github.com/weyerma2/MDM-Lernjournal/blob/main/lernjournal1-python/images/azure.jpeg" />
 
